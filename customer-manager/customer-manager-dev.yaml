@@ -1,2 +1,4 @@
-foo
-  title: 111111111
+config:
+  label: master
+  profile: dev
+  uri: http://localhost:8084/
