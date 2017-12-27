@@ -2,3 +2,11 @@ config:
   label: master
   profile: dev
   uri: http://localhost:8084/
+
+spring:
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: 10.143.128.120:9092
+          zk-nodes: 10.143.128.120:2181
