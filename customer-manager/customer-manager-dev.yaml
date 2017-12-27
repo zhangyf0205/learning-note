@@ -1,7 +1,7 @@
 abc: zhang
 config:
-  label: m
-  profile: d
+  label: mm
+  profile: dd
   uri: http://localhost:8084/
 
 spring:
