@@ -1,6 +1,6 @@
 abc: zhang
 config:
-  label: masterxxxxxxxxxxxxxcccccccccc
+  label: master
   profile: dev
   uri: http://localhost:8084/
 
