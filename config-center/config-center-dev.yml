@@ -1,1 +1,7 @@
-
+spring:
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: 10.143.128.120:9092
+          zk-nodes: 10.143.128.120:2181
