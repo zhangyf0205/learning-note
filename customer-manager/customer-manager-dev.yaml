@@ -1,3 +1,4 @@
+abc: xxx
 config:
   label: masterxxx
   profile: dev
